@@ -4,7 +4,7 @@ description: Virtualization
 
 # Theme
 show_downloads: false
-theme: jekyll-theme-just-the-docs
+theme: jekyll-theme-minima
 
 # GitHub settings
 github:
