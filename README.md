@@ -57,15 +57,15 @@ As Broadcome now offers VMware Workstation Pro and Fusion 25H2 free for personal
 Support Portal
 - Go to **My Downloads** → find the link named **“Free Software Downloads available HERE”**.
 
-[Free Software Downloads Screenshot](/images/broadcom1.png)
+[Free Software Downloads Screenshot](/images/Broadcom1.png)
 
 - In the Search box, type **“Workstation Pro”**
 
-[Worksation VMware Pro 25H2](/images/broadcom2.ong)
+[Worksation VMware Pro 25H2](/images/Broadcom2.ong)
 
 - In the Search boc, you can also search **VMware Fusion** for macOS
 
-[VMware Fusion](/images/broadcom3.png)
+[VMware Fusion](/images/Broadcom3.png)
 
 4. Download the VMware Workstation Pro or VMware Fuision installer. Once installed, proceed to open the software and configure your virtual machines.
 
