@@ -4,6 +4,7 @@
 VMware Workstation Pro 25H2 is an advanced desktop virtualization platform built for developers and IT professionals who need reliable, high-performance virtual machine creation, testing, and management.
 
 This is the fully functional version without limits, no license key required. It's free for commercial, educational, and personal use.
+VMware Workstation Pro is a top-tier option for anyone seeking a reliable and flexible virtualization experience.
 
 VMware Workstation Pro for Windows and Linux and VMware Fusion Pro for Mac enable you to deliver virtual machines, containers, and Kubernetes clusters on nearly any PC or Mac.
 
@@ -56,8 +57,32 @@ VMware Workstation Pro is now available free for business and personal use.
 | **Storage** | SSD recommended, 40 GB+ free per VM | SSD recommended, 40 GB+ free per VM | SSD recommended, 40 GB+ free per VM |
 | **Internet** | Persistent connection for updates and downloads | Persistent connection for updates and downloads | Persistent connection for updates and build dependencies |
 
+---
 
+##How to obtain **VMware Workstation Pro 25H2**
+As Broadcome now offers VMware Workstation Pro and Fusion 25H2 free for personal and commerical use without a traditional paid license key. 
 
+1. Go to the Broadcom Support Registration Page
+- Open your browser and visit: [https://profile.broadcom.com/web/registration](https://profile.broadcom.com/web/registration). Proceed to complete the registration process. 
+
+2. After registering, go to [https://support.broadcom.com](https://support.broadcom.com)  and log in with your new account credentials.
+   
+3. Navigate to VMware Downloads
+- In the **top right**, pick **“VMware Cloud Foundation”** from any dropdown if visible. 
+Support Portal
+- Go to **My Downloads** → find the link named **“Free Software Downloads available HERE”**.
+
+[Free Software Downloads Screenshot](/images/broadcom1)
+
+- In the Search box, type **“Workstation Pro”**
+
+[Worksation VMware Pro 25H2](/images/broadcom2)
+
+- In the Search boc, you can also search **VMware Fusion** for macOS
+
+[VMware Fusion](/images/broadcom3)
+
+4. Select teh Free Version
 
 
 
