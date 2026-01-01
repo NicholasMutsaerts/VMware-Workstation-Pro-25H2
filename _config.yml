@@ -1,0 +1,11 @@
+# Site settings
+title: VMware Workstation Pro 25H2
+description: Virtualization
+
+# Theme
+show_downloads: false
+theme: jekyll-theme-just-the-docs
+
+# GitHub settings
+github:
+  is_project_page: false
