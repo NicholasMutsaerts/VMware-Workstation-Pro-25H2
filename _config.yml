@@ -1,6 +1,6 @@
 # Site settings
-title: "VMware Workstation Pro 25H2"
-description: "Virtualization"
+title: ""
+description: ""
 
 # Theme
 theme: jekyll-theme-tactile
