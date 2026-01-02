@@ -77,7 +77,8 @@ Support Portal
 ### Download ISO Files
 
 **Linux ISO**
-- [Fedora] (https://www.fedoraproject.org/)
+- [Fedora](https://www.fedoraproject.org/)
+- [Kali Linux Pre-Build Virutal Machines](https://www.kali.org/get-kali/#kali-virtual-machines)
 - [Linux Mint 22.2 'Zara'](https://linuxmint.com/download.php)
 - [Manjaro](https://manjaro.org/products)
 - [Ubuntu 24.04 & Ubuntu 25.10](https://ubuntu.com/download/desktop)
@@ -87,7 +88,10 @@ Support Portal
 **Windows ISO**
 - [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
-
+### Alternative Virtualization Software
+- [VirtualBox](https://www.virtualbox.org/) (Free and available for Windows, Linux, and MacOS)
+- [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) (Windows 11 Pro versions only)
+- [Parallels](https://www.parallels.com/products/desktop/?utm_source=google&utm_medium=cpc&utm_campaign=pl-dd-all-paidads&utm_id=43693686&utm_content=1475700876&utm_term=parallels%20for%20macos&gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiQ0nncX63ZqHtgKJGHe5evtwJExyHw4ulukRYDve-r8TPT_x3kThEhoCZxIQAvD_BwE) (MacOS Only)
 
 
 
