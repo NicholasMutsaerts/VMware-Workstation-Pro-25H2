@@ -76,9 +76,17 @@ Support Portal
 
 ### Download ISO Files
 
-[Zorin OS 18 Core](https://zorin.com/os/download/)
-[Ubuntu Desktop](https://ubuntu.com/download/desktop)
-[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+**Linux ISO**
+- [Fedora] (https://www.fedoraproject.org/)
+- [Linux Mint 22.2 'Zara'](https://linuxmint.com/download.php)
+- [Manjaro](https://manjaro.org/products)
+- [Ubuntu 24.04 & Ubuntu 25.10](https://ubuntu.com/download/desktop)
+- [Ubuntu Flavors](https://ubuntu.com/desktop/flavors)
+- [Zorin OS 18 Core](https://zorin.com/os/download/)
+
+**Windows ISO**
+- [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+
 
 
 
