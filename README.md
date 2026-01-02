@@ -61,7 +61,7 @@ Support Portal
 
 - In the Search box, type **“Workstation Pro”**
 
-![Worksation VMware Pro 25H2](images/Broadcom2.ong)
+![Worksation VMware Pro 25H2](images/Broadcom2.png)
 
 - In the Search boc, you can also search **VMware Fusion** for macOS
 
