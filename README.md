@@ -44,7 +44,7 @@ VMware Workstation Pro 25H2 and VMware Fusion Pro 25H2 provide professional desk
 
 ---
 
-##How to obtain **VMware Workstation Pro 25H2**
+## How to obtain **VMware Workstation Pro 25H2**
 As Broadcome now offers VMware Workstation Pro and Fusion 25H2 free for personal and commerical use without a traditional paid license key. 
 
 1. Go to the Broadcom Support Registration Page
