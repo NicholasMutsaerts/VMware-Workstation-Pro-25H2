@@ -20,6 +20,12 @@
 
 ![Name the Virtual Machine](images/VMware-wizard4.png)
 
+6. Specify Disk Capacity and select **Next** when ready. Here VMware is recommending Ubuntu for 20 GB. Designate a higher maximum disk size according to your use-case scenario. 
 
+![Specify Disk Capacity](images/VMware-wizard5.png)
+
+7. Ready to Create Virtual Machine
+
+![Specify Disk Capacity](images/VMware-wizard6.png)
 
 
