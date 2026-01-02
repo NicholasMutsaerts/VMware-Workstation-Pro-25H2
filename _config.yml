@@ -1,9 +1,9 @@
 # Site settings
-title: ""
-description: ""
+title: "VMware Workstation Pro and Fusion 25H2"
+description: "Virtualization"
 
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # GitHub settings
 github:
