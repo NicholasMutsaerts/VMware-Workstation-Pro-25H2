@@ -3,7 +3,7 @@ title: "VMware Workstation Pro"
 description: "Virtualization"
 
 # Theme
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 # GitHub settings
 github:
