@@ -88,10 +88,29 @@ Support Portal
 **Windows ISO**
 - [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
-### Alternative Virtualization Software
-- [VirtualBox](https://www.virtualbox.org/) (Free and available for Windows, Linux, and MacOS)
-- [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) (Windows 11 Pro versions only)
-- [Parallels](https://www.parallels.com/products/desktop/?utm_source=google&utm_medium=cpc&utm_campaign=pl-dd-all-paidads&utm_id=43693686&utm_content=1475700876&utm_term=parallels%20for%20macos&gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiQ0nncX63ZqHtgKJGHe5evtwJExyHw4ulukRYDve-r8TPT_x3kThEhoCZxIQAvD_BwE) (MacOS Only)
+### VirtualBox
+VirtualBox is a popular choice among developers and hobbyists due to its cost-effectiveness and ease of use across Windows 11, macOS, and Linux environments. 
 
+- [VirtualBox](https://www.virtualbox.org/)
+- [Ubuntu's VirtualBox Guide](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+- [Zorin's VirtualBox Guide](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/)
+
+### VirtualBox
+Hyper-V is a virtualization platform developed by Microsoft, designed primarily for Windows-based guests. Hyper-V is often used in enterprise environments, where Windows Server is the dominant OS.
+
+- [Hyper-V Documentation](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/)
+- [Windows Server Hyper-V and Virtualization](https://www.getyoureducation.net/course/windows-server-hyper-v-and-virtualization)
+
+--- 
+## Support This Project
+
+If you find these guides helpful, consider supporting the project.
+
+Your support helps:
+- Maintain and update documentation
+- Add new troubleshooting guides
+- Improve clarity and accuracy
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/nicholasmug)
 
 
