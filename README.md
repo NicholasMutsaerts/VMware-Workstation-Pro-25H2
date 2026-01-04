@@ -85,6 +85,9 @@ Support Portal
 - [Ubuntu Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS 18 Core](https://zorin.com/os/download/)
 
+**Kali Linux**
+Kali Linux is a powerful, Debian-based Linux distribution designed for advanced penetration testing, ethical hacking, and cybersecurity research. [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines) has pre-built virtual machines for [VMware](https://www.vmware.com/uk.html) and [VirtualBox](https://www.virtualbox.org/) available. These images have the default credentials "kali/kali".
+
 **Windows ISO**
 - [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
