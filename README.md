@@ -74,7 +74,7 @@ Support Portal
 
 Creating Virtual Machines can be done by by using the **New Virtual Machine** wizard found on the VMware Workstation Pro 25H2 Home Screen. 
 
-![VMware Home](VMware-Home.png) 
+![VMware Home](images/VMware-Home.png) 
 
 #### 1. Launch VMware Workstation Pro
 Open the software from your Start Menu (Windows) or app menu (Linux).  
