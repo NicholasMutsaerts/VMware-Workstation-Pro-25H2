@@ -19,7 +19,7 @@ VMware Workstation Pro 25H2 and VMware Fusion Pro 25H2 provide professional desk
 
 ---
 
-## System Requirements for VMware Workstation Pro / Fusion 25H2
+## System Requirements
 
 ### Minimum System Requirements
 
@@ -31,8 +31,7 @@ VMware Workstation Pro 25H2 and VMware Fusion Pro 25H2 provide professional desk
 | **Storage** | ~1 GB for application + 20 GB per VM | ~1 GB for application + 20 GB per VM | ~1 GB for application + 20 GB per VM |
 | **Internet** | Required for install, updates, and activation | Required for install, updates, and activation | Required for install, updates, and kernel modules |
 
-## Recommended System Requirements (Optimal Performance)
-### Recommended System Requirements
+### Recommended System Requirements (Optimal Performance)
 
 | Component | Windows | macOS | Linux |
 |----------|--------|-------|-------|
