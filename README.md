@@ -43,7 +43,7 @@ VMware Workstation Pro 25H2 and VMware Fusion Pro 25H2 provide professional desk
 
 ---
 
-## How to obtain **VMware Workstation Pro 25H2**
+### How to obtain **VMware Workstation Pro and Fusion 25H2**
 As Broadcom now offers VMware Workstation Pro and Fusion 25H2 free for personal and commerical use without a traditional paid license key. 
 
 1. Go to the Broadcom Support Registration Page
@@ -131,6 +131,7 @@ After creating the VM:
 - [VMWare Workstation and Fuision Product Overview](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion#product-overview)
 - [VMware Worksation and Fusion 25H2 New Features](https://blogs.vmware.com/cloud-foundation/2025/10/14/vmware-workstation-fusion-25h2-embracing-calendar-versioning-and-new-features/)
 
+--- 
 ### Download ISO Files
 
 **Linux ISO**
@@ -162,7 +163,7 @@ Hyper-V is a virtualization platform developed by Microsoft, designed primarily 
 - [Windows Server Hyper-V and Virtualization](https://www.getyoureducation.net/course/windows-server-hyper-v-and-virtualization)
 
 --- 
-## Support This Project
+### Support This Project
 
 If you find these guides helpful, consider supporting the project.
 
