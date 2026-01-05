@@ -69,6 +69,64 @@ Support Portal
 
 4. Download the VMware Workstation Pro or VMware Fuision installer. Once installed, proceed to open the software and configure your virtual machines.
 
+---
+### Quick Steps to Configure a VM in VMware Workstation Pro
+
+Creating Virtual Machines can be done by by using the **New Virtual Machine** wizard found on the VMware Workstation Pro 25H2 Home Screen. 
+
+![VMware Home](VMware-Home) 
+
+#### 1. Launch VMware Workstation Pro
+Open the software from your Start Menu (Windows) or app menu (Linux).  
+
+#### 2. Create a New VM
+Click **Create a New Virtual Machine** or go to **File → New Virtual Machine**.  
+
+#### 3. Choose Configuration Type
+- **Typical** (recommended) for most users  
+- **Custom** if you need advanced options (hardware version, etc.)  
+
+Click **Next**.  
+
+#### 4. Select Installation Media
+Pick how you want to install the guest OS:
+- Installer disc  
+- ISO image file  
+- Install OS later  
+
+Then click **Next**.  
+
+#### 5. Select Guest OS
+Choose the operating system you will install (e.g., Linux, Windows) and its version.  
+
+#### 6. Name the VM & Choose Location
+Give your VM a name and select where to save its files.  
+
+#### 7. Set Disk Size
+Choose the maximum disk size and whether to store the disk as a single file or split it into multiple files.  
+
+#### 8. Finish & Create
+Review the settings and click **Finish**. Your VM appears in the library.  
+
+#### 9. Power On & Install OS
+Select the VM and click **Power on this virtual machine**.  
+Complete the operating system installation process.  
+
+#### 10. Install VMware Tools (Recommended)
+After the OS is installed, go to **VM → Install VMware Tools** to improve integration (mouse, display, drivers).  
+
+---
+
+### Optional Configurations
+
+After creating the VM:
+- **Hardware adjustments** (RAM, CPUs, network):  
+  Right-click the VM → **Settings**.  
+
+- **Networking options**:  
+  NAT, Bridged, Host-only
+
+--- 
 
 ### External Links
 - [VMWare Workstation and Fuision Product Overview](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion#product-overview)
